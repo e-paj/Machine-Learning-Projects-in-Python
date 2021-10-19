@@ -1,4 +1,4 @@
-# Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering 👪👨‍👩‍👦👨‍👩‍👧👨‍👩‍👧‍👦
 
 ❓ **Problem**: How to classify the type of customer a mall has in order to make better business decisions?
 
