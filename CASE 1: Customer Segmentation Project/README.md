@@ -1,12 +1,16 @@
 # Customer Segmentation using K-Means Clustering 👪👨‍👩‍👦👨‍👩‍👧👨‍👩‍👧‍👦
 
-❓ **Problem**: How to classify the type of customer a mall has in order to make better business decisions?
+❓ 
+**Problem**: How to classify the type of customer a mall has in order to make better business decisions?
 
-💡 **Objective**: To build a classification model that would cluster the customers depending on their willingness to spend.
+💡 
+**Objective**: To build a classification model that would cluster the customers depending on their willingness to spend.
 
-📅 **Date**: Oct. 19-22
+📅 
+**Date**: Oct. 19-22
 
-📝 **Workflow**:
+📝 
+**Workflow**:
 - Need Customer Data: to train and test model
 - Data Pre-Processing: to select certain attributes in the dataset to feed to the model
 - Data Analysis: to see which features are important and see variances
@@ -14,7 +18,9 @@
 - K-Means Clustering: to group the data based on their similarity.
 - Visualizing the Clusters: to better understand the clusters.
 
-🔢 **Dataset**: Kaggle = https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+🔢 
+**Dataset**: Kaggle = https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-📜 **References**:
+📜 
+**References**:
 
