@@ -4,3 +4,10 @@
 
 💡 **Objective**: To build a classification model that would cluster the customers depending on their willingness to spend.
 
+📅 **Date**:
+
+Workflow:
+🔢 **Dataset**:
+
+📜 **References**:
+
