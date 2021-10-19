@@ -4,10 +4,12 @@
 
 💡 **Objective**: To build a classification model that would cluster the customers depending on their willingness to spend.
 
-📅 **Date**:
+📅 **Date**: Oct. 19-22
 
-Workflow:
-🔢 **Dataset**:
+📝 **Workflow**:
+-
+
+🔢 **Dataset**: Kaggle = https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 📜 **References**:
 
