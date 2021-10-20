@@ -24,4 +24,5 @@
 📜 
 **References**:
 - https://www.youtube.com/watch?v=SrY0sTJchHE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=13
+- https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
 
