@@ -23,7 +23,7 @@
 
 📜 
 **References**:
-- https://www.youtube.com/watch?v=SrY0sTJchHE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=13
+- Siddhardhan. (2021, April 30). Project 13. Customer Segmentation using K-Means Clustering with Python | Machine Learning Projects [Video]. Youtube. https://www.youtube.com/watch?v=SrY0sTJchHE&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=13
 - https://www.analyticsvidhya.com/blog/2021/01/in-depth-intuition-of-k-means-clustering-algorithm-in-machine-learning/
 - https://openviewpartners.com/blog/customer-segmentation/#.YXG-QBrMLD4
 
