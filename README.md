@@ -3,9 +3,9 @@
 The aim of this is to showcase Machine Learning Projects that I did!!
 
 ## Case Studies:
-1. Customer Segmentation: using k-Means Clustering
-2. Detecting Parkinsons Disease: using Support Vector Machine model
-3. Medical Insurance Cost: using Linear Regression
+1. Customer Segmentation
+2. Detecting Parkinsons Disease
+3. Medical Insurance Cost
 
 ## Description:
 Following are the projects/case studies I have done in the Machine Learning Field and its descriptions. Projects are grouped by learning styles:
