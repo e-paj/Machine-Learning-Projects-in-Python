@@ -13,5 +13,5 @@ Following are the projects/case studies I have done in the Machine Learning Fiel
 | **Name** | **Description** |
 | :------: | :-------------: |
 | [Customer Segmentation](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%201:%20Customer%20Segmentation%20Project) | Implementation of k-Means Clustering to classify customers based on the income and spending score |
-| [Medical Insurnace Cost](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%202:%20Detecting%20Parkinsons%20Disease) | 
+| [Medical Insurance Cost](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%202:%20Detecting%20Parkinsons%20Disease) | SVM implementation |
 
