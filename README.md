@@ -2,11 +2,16 @@
 
 The aim of this is to showcase Machine Learning Projects that I did!!
 
+### Legend:
+- ✔ = project is finished
+- ❌ = project is being planned, yet to start.
+- ↔ = project is in motion, not finished
+
 ## Case Studies:
 1. Customer Segmentation
 2. Detecting Parkinsons Disease
 3. Medical Insurance Cost
-4. Neural Networks
+4. Neural Networks 
 
 ## Description:
 Following are the projects/case studies I have done in the Machine Learning Field and its descriptions. Projects are grouped by learning styles:
