@@ -11,7 +11,7 @@ The aim of this is to showcase Machine Learning Projects that I did!!
 1. Customer Segmentation ✔
 2. Detecting Parkinsons Disease ✔
 3. Medical Insurance Cost ✔
-4. Neural Networks ↔ 
+4. Neural Networks/Decision Trees ↔ 
 5. Movie Recommendation ❌
 
 ## Description:
