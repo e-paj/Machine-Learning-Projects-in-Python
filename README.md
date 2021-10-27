@@ -2,7 +2,7 @@
 
 The aim of this is to showcase Machine Learning Projects that I did!!
 
-### Legend:
+**Legend**:
 - ✔ = project is finished
 - ❌ = project is being planned, yet to start.
 - ↔ = project is in motion, not finished
