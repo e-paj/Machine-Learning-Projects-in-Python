@@ -4,7 +4,7 @@
 **Objective**: To classify mushrooms into "edible" and "poisonous".
 
 ❓
-**Problem**:
+**Problem**: How to build a predictive model that can classify a mushroom as either "edible" or "poisonous" to see what is safe for consumption?
 
 📅
 **Date**: Oct. 25 -
@@ -14,5 +14,6 @@
 
 📜
 **References**:
-
+- please look at Websites.txt
+- A whole of googling
 
