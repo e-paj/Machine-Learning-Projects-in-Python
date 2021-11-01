@@ -1,3 +1,7 @@
+November 01, 2021:
+- Started writing the report.
+- Start next time on Part C and finish the background part of Introduction.
+
 October 29, 2021:
 - Ok, I built a Predictive System where given an input data, the model can classify a mushroom.
 - Still could not figure out why I keep getting 100% accuracy??
