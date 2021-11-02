@@ -7,7 +7,7 @@
 **Problem**: How to build a predictive model that can classify a mushroom to see which is safe for consumption?
 
 📅
-**Date**: Oct. 25 - Nov. 03
+**Date**: Oct. 25 - Nov. 02
 
 🔢
 **Dataset**: Kaggle = https://www.kaggle.com/uciml/mushroom-classification
