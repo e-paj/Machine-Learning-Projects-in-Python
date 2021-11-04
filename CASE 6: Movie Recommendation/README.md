@@ -1,16 +1,22 @@
 # Movie Recommendation 📺
 
 💡
-**Objective**:
+**Objective**: To incorporate Content-based and a little of Popularity-based recommendation system by using Cosine Similarity to suggest movies.
 
 ❓
-**Problem**:
+**Problem**: How to build a movie recommendation system using Cosine Similarity algorithm?
 
 📅
 **Date**: Nov. 04 - 
 
 📝
 **Workflow**:
+- data collection (i.e. genres. description, director, etc.)
+- Data pre-processing
+- Feature extraction (covert textual to numerical values)
+- user input
+- cosine similarity algorithm (calculate the similarity given by the user to the other movies in the dataset)
+- list of movies (what to suggest to user)
 
 🔢
 **Dataset**: [Movies Data](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%206:%20Movie%20Recommendation/DATA)
