@@ -32,4 +32,4 @@ Following are the projects/case studies I have done in the Machine Learning Fiel
 ### Neither
 | **Name** | **Description** |
 | :------: | :-------------: |
-| [Movie Recommendation]() | Build a recommendation system based on content and popularity by calculating for Cosine Similarity. |
+| [Movie Recommendation](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%205:%20Movie%20Recommendation) | Build a recommendation system based on content and popularity by calculating for Cosine Similarity. |
