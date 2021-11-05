@@ -23,4 +23,4 @@
 
 📜
 **References**:
-- https://www.youtube.com/watch?v=7rEagFH9tQg&t=461s (48:00)
+- Siddhardhan. (2021, October 20). https://www.youtube.com/watch?v=7rEagFH9tQg&t=461s 
