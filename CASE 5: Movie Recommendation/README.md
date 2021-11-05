@@ -23,4 +23,6 @@
 
 📜
 **References**:
-- Siddhardhan. (2021, October 20). Project 18. Movie Recommendation System using Machine Learning with Python [video]. Youtube. https://www.youtube.com/watch?v=7rEagFH9tQg&t=461s 
+- Siddhardhan. (2021, October 20). Project 18. Movie Recommendation System using Machine Learning with Python [video]. Youtube. https://www.youtube.com/watch?v=7rEagFH9tQg&t=461s
+- Stackoverflow. How to Repeat the Game in a Loop. https://stackoverflow.com/questions/39933029/how-do-i-repeat-the-game-on-a-loop
+-  
