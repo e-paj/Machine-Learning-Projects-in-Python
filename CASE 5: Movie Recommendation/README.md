@@ -23,6 +23,7 @@
 
 📜
 **References**:
+- Chaudhary, M. (2020, April 23). TF-IDF Vectorizer scikit-learn. *Medium*. https://medium.com/@cmukesh8688/tf-idf-vectorizer-scikit-learn-dbc0244a911a
 - Siddhardhan. (2021, October 20). Project 18. Movie Recommendation System using Machine Learning with Python [video]. Youtube. https://www.youtube.com/watch?v=7rEagFH9tQg&t=461s
 - Stackoverflow. How to Repeat the Game in a Loop. https://stackoverflow.com/questions/39933029/how-do-i-repeat-the-game-on-a-loop
 -  
