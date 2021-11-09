@@ -7,7 +7,7 @@
 **Problem**: How to build a movie recommendation system using Cosine Similarity algorithm?
 
 📅
-**Date**: Nov. 04 - 
+**Date**: Nov. 04 - 09
 
 📝
 **Workflow**:
@@ -27,4 +27,4 @@
 - Prabhakaran, S. (2018, October 22). Cosine Similarity – Understanding the math and how it works (with python codes). *Machine Learning Plus*. https://www.machinelearningplus.com/nlp/cosine-similarity/
 - Siddhardhan. (2021, October 20). Project 18. Movie Recommendation System using Machine Learning with Python [video]. Youtube. https://www.youtube.com/watch?v=7rEagFH9tQg&t=461s
 - Stackoverflow. How to Repeat the Game in a Loop. https://stackoverflow.com/questions/39933029/how-do-i-repeat-the-game-on-a-loop
--  
+
