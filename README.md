@@ -13,6 +13,7 @@ The aim of this is to showcase Machine Learning Projects that I did in Python!!
 3. Medical Insurance Cost ✔
 4. Mushroom Classification ✔
 5. Movie Recommendation ✔
+6. Webscraping Wikipedia for group discrographies ↔
 
 
 ## Description:
