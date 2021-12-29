@@ -7,6 +7,8 @@
   - What music genre do each group see the most rise on charts? Forecast what would happen (chart-wise) if they maintain the genre?
 
 📜**References**:
+- https://realpython.com/beautiful-soup-web-scraper-python/
+- https://www.edureka.co/blog/web-scraping-with-python/
 
 ## Groups to Web Scrape in Wikipedia:
 ### For this project, I am mainly focusing on SM Enterntainment artists (at least 3 years in the business and still in the company).
