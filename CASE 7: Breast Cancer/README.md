@@ -1,12 +1,13 @@
 # Breast Cancer Detection ♋
 
-❓ **Problem**:
+❓ **Problem**: To be able to accurately detect whether an area of abnormal-appearing tissue or body fluid is a malignant or benign cancer.
 
 💡 **Objective**:
 
-📅 **Date**:
+📅 **Date**: February 14 -
 
 🔢 **Dataset**: 
+- *Fine Needle Aspiration*: a type o biposy procedure. A thin needle is inserted into an area of abnormal-appearing tissue or body fluid. The sample collected during fine neddle aspiration can help make a diagnosis or rule out conditions such as cancer.
 
 📜 **References**:
 - https://www.youtube.com/watch?v=bFh1umUDaGc&list=PLfFghEzKVmjs-FHcxccBvOaiJ2h2zWVpD&index=4
