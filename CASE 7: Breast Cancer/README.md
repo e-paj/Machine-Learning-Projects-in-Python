@@ -1,6 +1,6 @@
 # Breast Cancer Detection ♋
 
-❓ **Problem**: To be able to accurately detect whether an area of abnormal-appearing tissue or body fluid is a malignant or benign cancer.
+❓ **Problem**: 
 
 💡 **Objective**: To build a Breast Cancer Classification system using Machine Learning with Python.
 
