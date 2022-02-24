@@ -2,7 +2,7 @@
 
 ❓ **Problem**: To be able to accurately detect whether an area of abnormal-appearing tissue or body fluid is a malignant or benign cancer.
 
-💡 **Objective**: To build a Breast Cancer Classification system using Machine Learning with Python.
+💡 **Objective**: 
 
 📅 **Date**: February 14 -
 
