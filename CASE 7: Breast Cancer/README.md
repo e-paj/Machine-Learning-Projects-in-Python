@@ -10,4 +10,4 @@
 - *Fine Needle Aspiration*: a type of biposy procedure. A thin needle is inserted into an area of abnormal-appearing tissue or body fluid. The sample collected during fine neddle aspiration can help make a diagnosis or rule out conditions such as cancer.
 
 📜 **References**:
-- https://www.youtube.com/watch?v=bFh1umUDaGc&list=PLfFghEzKVmjs-FHcxccBvOaiJ2h2zWVpD&index=4
+- Siddhardhan. (2021, November 16). Project 19. Breast Cancer Classification using Machine Learning | Machine Learning Projects [Video]. Youtube. https://www.youtube.com/watch?v=bFh1umUDaGc&list=PLfFghEzKVmjs-FHcxccBvOaiJ2h2zWVpD&index=4
