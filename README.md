@@ -37,4 +37,4 @@ Following are the projects/case studies I have done in the Machine Learning Fiel
 | **Name** | **Description** |
 | :------: | :-------------: |
 | [Movie Recommendation](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%205:%20Movie%20Recommendation) | Build a recommendation system based on content and popularity by calculating for Cosine Similarity. |
-| [Webscraping]() | Code to webscrape a Wikipedia page (specifically for discography page) |
+| [Webscraping](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%206:%20Web%20Scraping) | Code to webscrape a Wikipedia page (specifically for discography page) |
