@@ -14,7 +14,7 @@ The aim of this is to showcase Machine Learning Projects that I did in Python!!
 4. Mushroom Classification ✔
 5. Movie Recommendation ✔
 6. Webscraping Wikipedia for group discrographies ↔
-7. Breast Cancer Detection ❌
+7. Breast Cancer Detection ✔
 
 
 ## Description:
@@ -26,7 +26,7 @@ Following are the projects/case studies I have done in the Machine Learning Fiel
 | [Detecting Parkinson's Disease](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%202:%20Detecting%20Parkinsons%20Disease) | SVM implementation to predict if a patient is disease positive or not |
 | [Medical Insurance Cost](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%203:%20Medical%20Insurance%20Cost)| Implement a Linear Regression model to predict the cost of insurance depending on several factors.  |
 | [Mushroom Classification](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%204:%20Mushrooms) | Decision Trees implementation to predict if a mushroom is edible or poisonous |
-| [Breast Cancer]() | Implement Logistic Regression model to accurately predict if breast cancer is benign or not |
+| [Breast Cancer](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%207:%20Breast%20Cancer) | Implement Logistic Regression model to accurately predict if breast cancer is benign or not |
 
 ### Unsupervised Learning
 | **Name** | **Description** |
