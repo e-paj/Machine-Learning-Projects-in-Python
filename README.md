@@ -15,6 +15,7 @@ The aim of this is to showcase Machine Learning Projects that I did in Python!!
 5. Movie Recommendation ✔
 6. Webscraping Wikipedia for group discrographies ↔
 7. Breast Cancer Detection ✔
+8. Chatbots ❌
 
 
 ## Description:
@@ -36,5 +37,5 @@ Following are the projects/case studies I have done in the Machine Learning Fiel
 ### Neither
 | **Name** | **Description** |
 | :------: | :-------------: |
-| [Movie Recommendation](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%205:%20Movie%20Recommendation) | Build a recommendation system based on content and popularity by calculating for Cosine Similarity. |
-| [Webscraping](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%206:%20Web%20Scraping) | Code to webscrape a Wikipedia page (specifically for discography page) |
+| [Movie Recommendation](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%205:%20Movie%20Recommendation) | Build a recommendation system based on content and popularity by calculating Cosine Similarity. |
+| [Webscraping](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%206:%20Web%20Scraping) | Code to webscrape a Wikipedia page (specifically for a discography page) |
