@@ -7,7 +7,14 @@
 
 **📅 Date**: Mar. 21 - 
 
-**
+**📝 Workflow**:
+- A simple Chatbot:
+  -  Interaction of User for asking of name
+  -  Response of the bot
+  -  Creating a Function Response
+  -  Another function
+  -  Sending back the message function
+  -  Final step to break the loop 
 
 **📜 References**:
 - https://www.analyticsvidhya.com/blog/2021/12/creating-chatbot-building-using-python/
