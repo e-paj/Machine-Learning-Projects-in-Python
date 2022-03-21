@@ -5,9 +5,9 @@
 
 **💡 Objective**:
 
-**📅 Date**:
+**📅 Date**: Mar. 21 - 
 
-**🔢 Dataset**:
+**
 
 **📜 References**:
 - https://www.analyticsvidhya.com/blog/2021/12/creating-chatbot-building-using-python/
