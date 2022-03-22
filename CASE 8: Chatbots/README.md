@@ -5,7 +5,7 @@
 
 **💡 Objective**:
 
-**📅 Date**: Mar. 21 - 
+**📅 Date**: 
 
 **📝 Workflow**:
 - A simple Chatbot:
