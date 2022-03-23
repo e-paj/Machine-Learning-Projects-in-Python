@@ -21,3 +21,4 @@
 - https://www.youtube.com/watch?v=9U6uhcBHLBU
 - https://www.upgrad.com/blog/how-to-make-chatbot-in-python/
 - https://data-flair.training/blogs/python-chatbot-project/
+- https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44
