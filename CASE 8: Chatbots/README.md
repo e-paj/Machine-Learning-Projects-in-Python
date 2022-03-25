@@ -3,7 +3,7 @@
 **What are Bots❓**:
 - Bots are specially built software that interacts with internet users automatically. Bots are made up of algorithms that assist them in completing jobs. By auto-designed, we mean that they run on their own, following instructions, and therefore begin the conservation process without the need for human intervention. 
 
-**💡 Objective**:
+**💡 Objective**: This is just a fun project I would like to create! 
 
 **📅 Date**: 
 
