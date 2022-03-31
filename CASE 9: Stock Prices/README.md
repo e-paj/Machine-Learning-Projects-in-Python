@@ -1,6 +1,6 @@
 # 💹 Stock Prices Prediction 💹
 
-**💡 Objective**:
+**💡 Objective**: To look at data from the stock market, particularly some technology stocks. To use pandas to get stock information, visualize different aspects of it, and finally look at a few ways of analyzing the risk of a stock, based on its previous performance history. Also predict future stock prices through a Long Short Term Memory (LSTM) method!
 
 **📅 Date**: Mar. 
 
