@@ -9,3 +9,4 @@
 
 **📜 References**:
 - https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm/data
+- https://www.kaggle.com/code/pablocastilla/predict-stock-prices-with-lstm
