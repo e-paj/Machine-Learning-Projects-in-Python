@@ -17,6 +17,7 @@ The aim of this is to showcase Machine Learning Projects that I did in Python!!
 7. Breast Cancer Detection ✔
 8. Chatbots ↔
 9. Stock Prices ❌
+10. Mental Health in Tech
 
 
 ## Description:
