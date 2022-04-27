@@ -12,3 +12,6 @@
 
 
 ### Visualizations in the dataset (courtesy of seaborn)
+
+- [![Screenshot-312.png](https://i.postimg.cc/6qfDx5kw/Screenshot-312.png)](https://postimg.cc/PvN6mhfF)
+- 
