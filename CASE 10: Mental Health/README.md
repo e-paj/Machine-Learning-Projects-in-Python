@@ -23,7 +23,8 @@
 [![Screenshot-315.png](https://i.postimg.cc/1z1cwcgC/Screenshot-315.png)](https://postimg.cc/mPVHG9yC)
 - Number of entries based on the continent their country belongs:
 [![Screenshot-316.png](https://i.postimg.cc/wMrDvh8k/Screenshot-316.png)](https://postimg.cc/FkjYCkKf)
-- [![Screenshot-317.png](https://i.postimg.cc/Mp7j2kT5/Screenshot-317.png)](https://postimg.cc/gx008T3L)
+- Number of people who were given treatment based on their location:
+[![Screenshot-317.png](https://i.postimg.cc/Mp7j2kT5/Screenshot-317.png)](https://postimg.cc/gx008T3L)
 - [![Screenshot-318.png](https://i.postimg.cc/DyscZM0J/Screenshot-318.png)](https://postimg.cc/yk1RpnFs)
 - [![Screenshot-319.png](https://i.postimg.cc/mDJQZYGy/Screenshot-319.png)](https://postimg.cc/PpbL28JC)
 - [![Screenshot-319.png](https://i.postimg.cc/mDJQZYGy/Screenshot-319.png)](https://postimg.cc/PpbL28JC)
