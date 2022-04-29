@@ -13,7 +13,7 @@
 
 ### Visualizations in the dataset (courtesy of seaborn)
 
-- Number of people in the workforce that received a treatment: 
+- Number of people in the workforce that received a treatment: 621 received treatment, 610 did not
 [![Screenshot-312.png](https://i.postimg.cc/6qfDx5kw/Screenshot-312.png)](https://postimg.cc/PvN6mhfF)
 - Number of people in the workforce that received a treatment based on their gender:
 [![Screenshot-313.png](https://i.postimg.cc/ZKYQyZkB/Screenshot-313.png)](https://postimg.cc/Jtgx9fzM)
