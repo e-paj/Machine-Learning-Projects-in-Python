@@ -29,5 +29,6 @@
 [![Screenshot-318.png](https://i.postimg.cc/DyscZM0J/Screenshot-318.png)](https://postimg.cc/yk1RpnFs)
 - Number of employees that received treatment based on the number of employees their workplace belongs to:
 [![Screenshot-319.png](https://i.postimg.cc/mDJQZYGy/Screenshot-319.png)](https://postimg.cc/PpbL28JC)
-- [![Screenshot-319.png](https://i.postimg.cc/mDJQZYGy/Screenshot-319.png)](https://postimg.cc/PpbL28JC)
+- Number of employees in each age group:
+[![Screenshot-319.png](https://i.postimg.cc/mDJQZYGy/Screenshot-319.png)](https://postimg.cc/PpbL28JC)
 - [![Screenshot-321.png](https://i.postimg.cc/bwgkSchJ/Screenshot-321.png)](https://postimg.cc/MncvgLX2)
