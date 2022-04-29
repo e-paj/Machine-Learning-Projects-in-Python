@@ -13,7 +13,8 @@
 
 ### Visualizations in the dataset (courtesy of seaborn)
 
-- [![Screenshot-312.png](https://i.postimg.cc/6qfDx5kw/Screenshot-312.png)](https://postimg.cc/PvN6mhfF)
+- Number of people in the workforce that received a treatment: 
+[![Screenshot-312.png](https://i.postimg.cc/6qfDx5kw/Screenshot-312.png)](https://postimg.cc/PvN6mhfF)
 - [![Screenshot-313.png](https://i.postimg.cc/ZKYQyZkB/Screenshot-313.png)](https://postimg.cc/Jtgx9fzM)
 - [![Screenshot-314.png](https://i.postimg.cc/FKSCQHSq/Screenshot-314.png)](https://postimg.cc/3yKFX7nC)
 - [![Screenshot-315.png](https://i.postimg.cc/1z1cwcgC/Screenshot-315.png)](https://postimg.cc/mPVHG9yC)
