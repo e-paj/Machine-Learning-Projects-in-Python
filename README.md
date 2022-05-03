@@ -41,4 +41,4 @@ Following are the projects/case studies I have done in the Machine Learning Fiel
 | :------: | :-------------: |
 | [Movie Recommendation](https://github.com/e-paj/Machine-Learning-Projects/tree/main/CASE%205:%20Movie%20Recommendation) | Build a recommendation system based on content and popularity by calculating Cosine Similarity. |
 | [Webscraping](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%206:%20Web%20Scraping) | Code to webscrape a Wikipedia page (specifically for a discography page) |
-| [Mental Health in Tech](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%2010:%20Mental%20Health) | Visualization of 
+| [Mental Health in Tech](https://github.com/e-paj/Machine-Learning-Projects-in-Python/tree/main/CASE%2010:%20Mental%20Health) | Visualization that shows any patterns in the mental health of people working in tech. |
