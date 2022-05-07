@@ -7,7 +7,7 @@
 📅 **Date**: April 21 - 30
 
 📜 **References**:
-- https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
+- ***Mental Health in Tech Survey***.(2016, Nov. 03). Kaggle. Retrieved April 24, 2022, from https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 - https://www.kaggle.com/code/boneacrabonjac/tech-mental-health-survey
 
 
